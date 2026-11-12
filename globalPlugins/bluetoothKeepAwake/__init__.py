@@ -159,7 +159,7 @@ class GlobalPlugin(globalPluginHandler.GlobalPlugin):
 	@scriptHandler.script(
 		# Translators: input help message for the keep-awake toggle command.
 		description=_("Toggles continuous near-silent audio that keeps Bluetooth speakers and headphones awake"),
-		gestures=["kb:NVDA+shift+b"],
+		gestures=["kb:NVDA+windows+b"],
 	)
 	def script_toggleKeepAwake(self, gesture):
 		if self._enabled:
