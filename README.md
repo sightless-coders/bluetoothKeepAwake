@@ -6,7 +6,7 @@ asleep during quiet moments.
 
 ## Commands
 
-- NVDA+Shift+B: toggle keep-awake on or off.
+- NVDA+Windows+B: toggle keep-awake on or off.
 - NVDA+Shift+Alt+B: change the sound: quiet low tone (30 hertz), quiet high
   tone (19 kilohertz) or true silence.
 - NVDA+Control+Shift+B: change the tone volume.
